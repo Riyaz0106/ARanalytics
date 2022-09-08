@@ -11,7 +11,7 @@
 In order to successfully run the application please follow the steps below.
 ***
 
->**Step 1:** Setup project
+>**Step 1:** Setup
 
 1. Download and install Wikitude App
 
